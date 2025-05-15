@@ -16,8 +16,8 @@
     "url": "https://github.com/OMGDRV64/myproject/issues"
   },
   "homepage": "https://github.com/OMGDRV64/myproject#readme",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "description": ""
 }
